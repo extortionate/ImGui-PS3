@@ -33,7 +33,9 @@ https://discord.gg/YmuyTSdYKb
 🚫  Do what you please with this application source!
 
 Video of Application https://www.youtube.com/watch?v=MUbti3eOI_0&ab_channel=wmp
+
 Application Screen Shots See Video for a better experiance!
+
 ![Screenshot_1](https://github.com/extortionate/ImGui-PS3/assets/131308027/4abc1898-5ef8-4def-b0f0-ce2369a15afa)
 ![Screenshot_4](https://github.com/extortionate/ImGui-PS3/assets/131308027/b725437d-5414-4e93-8a69-979055b08e0b)
 ![Screenshot_3](https://github.com/extortionate/ImGui-PS3/assets/131308027/8dfa4b1c-73ee-423d-80b7-9b6bf35b0c6d)
