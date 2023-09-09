@@ -14,6 +14,7 @@ https://discord.gg/YmuyTSdYKb
 🌟 Download / Application Details🌟
 
 🔗 Download: https://xrez.io/apps.html (Source Code Included) 🔗
+🔗 Download from github the source is in the release 🔗
 
 ✨ CCAPI 2.60+ 2.70, 2.80 supported! ✨
 
