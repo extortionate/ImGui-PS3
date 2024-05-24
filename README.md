@@ -3,7 +3,7 @@ ImGui PS3 Application | 20+ Games to Mod, Universal Name Changer, Profile Editor
 
 Join my Discord Server
 PC/Console Modding Community & Resource Lounge
-https://discord.gg/YmuyTSdYKb
+discord.gg/4BpbkzqQmu
 
 🎉 Introducing the First Public Release 🎉
 
