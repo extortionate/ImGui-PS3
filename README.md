@@ -29,19 +29,19 @@ ImGui PS3 Application | 20+ Games to Mod, Universal Name Changer, Profile Editor
 - **Project Created time**: 3 months
 - **Tools Used**: Visual Studio 2022, C++ | ImGui Framework
 
-📦 **Source Included** - Dive into the magic behind the scenes!
+- 🌟 **Source Included** - Dive into the magic behind the scenes!
 
-🔧 **Utilized curl lib** to create an FTP method for seamless read/write on PS3 directories!
+- 🌟 **Utilized curl lib** to create an FTP method for seamless read/write on PS3 directories!
 
-🔍 **Name Changer** - Stored offsets inside a vector and let CCAPI auto-detect your game, no need to reconnect or reattach!
+- 🌟 **Name Changer** - Stored offsets inside a vector and let CCAPI auto-detect your game, no need to reconnect or reattach!
 
-🔍 **Game Mods** - No need to reconnect or reattach, just switch games.
+- 🌟 **Game Mods** - No need to reconnect or reattach, just switch games.
 
-⌛ **PKG Manager** - Transfer package files to your system, utilized curl lib to create a transfer and Windows API file dialog method.
+- 🌟 **PKG Manager** - Transfer package files to your system, utilized curl lib to create a transfer and Windows API file dialog method.
 
-🚫 **The source is included** so any problems you may face you are welcome to tweak the code if needed.
+- 🌟 **The source is included** so any problems you may face you are welcome to tweak the code if needed.
 
-🚫 **Do what you please with this application source!**
+- 🌟 **Do what you please with this application source!**
 
 ---
 
