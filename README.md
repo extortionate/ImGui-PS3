@@ -8,10 +8,7 @@ Join my Discord Server
 PC/Console Modding Community & Resource Lounge
 discord.gg/4BpbkzqQmu
 
-🎉 Introducing the First Public Release 🎉
-
-
-ImGui C++ on the PS3 system!
+🎉 Introducing the First Public Release ImGui C++ on the PS3 system! 🎉
 
 - 🌟 CCAPI connection only! RIP HEN users, this one's just for the elite!
 
