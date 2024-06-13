@@ -15,7 +15,6 @@ ImGui PS3 Application | 20+ Games to Mod, Universal Name Changer, Profile Editor
 ### 🎉 Introducing the First Public Release of ImGui C++ on the PS3 system! 🎉
 
 - 🌟 **CCAPI connection only!** RIP HEN users, this one's just for the elite!
-- 🌟 **Download / Application Details**
 - 🌟 **CCAPI 2.60+ 2.70, 2.80 supported!**
 - 🌟 **Universal Name Changer** - Customize your identity with ease!
 - 🌟 **20+ Games to Mod** - 170 Mod Toggles for the ultimate experience!
