@@ -2,7 +2,7 @@
 
 ```PROJECT SOURCE TOO BIG FOR GITHUB. CHECK RELEASES FOR THE MEGA LINK TO IT!```
 
-ImGui PS3 Application | 20+ Games to Mod, Universal Name Changer, Profile Editor, PKG Manager & More 🚀
+ImGui PS3 Application | 20+ Games to Mod, Profile Editor, PKG Manager & More 🚀
 
 ---
 
